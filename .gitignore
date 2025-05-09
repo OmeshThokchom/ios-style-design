@@ -14,3 +14,8 @@ assets/images/*
 backups/*
 !backups/.gitkeep
 
+# Server files
+.env
+*.env
+.env.local
+.env.*.local
