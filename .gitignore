@@ -1,0 +1,11 @@
+
+# Image uploads
+assets/images/*
+!assets/images/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
