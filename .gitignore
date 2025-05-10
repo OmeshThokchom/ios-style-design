@@ -10,9 +10,6 @@ assets/images/*
 # System files
 .DS_Store
 
-# Backup files
-backups/*
-!backups/.gitkeep
 
 # Server files
 .env
